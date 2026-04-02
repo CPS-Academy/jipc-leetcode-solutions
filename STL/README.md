@@ -1,0 +1,28 @@
+# Solutions in STL
+
+## File Index
+
+- [622. Design Circular Queue.cpp](./622.%20Design%20Circular%20Queue.cpp)
+- [1512. Number of Good Pairs.cpp](./1512.%20Number%20of%20Good%20Pairs.cpp)
+- [703. Kth Largest Element in a Stream.cpp](./703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp)
+- [1. Two Sum.cpp](./1.%20Two%20Sum.cpp)
+- [13. Roman to Integer.cpp](./13.%20Roman%20to%20Integer.cpp)
+- [771. Jewels and Stones.cpp](./771.%20Jewels%20and%20Stones.cpp)
+- [232. Implement Queue using Stacks.cpp](./232.%20Implement%20Queue%20using%20Stacks.cpp)
+- [2034. Stock Price Fluctuation .cpp](./2034.%20Stock%20Price%20Fluctuation%20.cpp)
+- [346. Moving Average from Data Stream.cpp](./346.%20Moving%20Average%20from%20Data%20Stream.cpp)
+- [205. Isomorphic Strings.cpp](./205.%20Isomorphic%20Strings.cpp)
+- [225. Implement Stack using Queues.cpp](./225.%20Implement%20Stack%20using%20Queues.cpp)
+- [681. Next Closest Time.cpp](./681.%20Next%20Closest%20Time.cpp)
+- [1046. Last Stone Weight.cpp](./1046.%20Last%20Stone%20Weight.cpp)
+- [41. First Missing Positive.cpp](./41.%20First%20Missing%20Positive.cpp)
+- [414. Third Maximum Number.cpp](./414.%20Third%20Maximum%20Number.cpp)
+- [1047. Remove All Adjacent Duplicates In String.cpp](./1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.cpp)
+- [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.cpp](./1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.cpp)
+- [496. Next Greater Element .cpp](./496.%20Next%20Greater%20Element%20.cpp)
+- [128. Longest Consecutive Sequence.cpp](./128.%20Longest%20Consecutive%20Sequence.cpp)
+- [506. Relative Ranks.cpp](./506.%20Relative%20Ranks.cpp)
+- [217. Contains Duplicate.cpp](./217.%20Contains%20Duplicate.cpp)
+- [290. Word Pattern.cpp](./290.%20Word%20Pattern.cpp)
+- [857. Minimum Cost to Hire K Workers.cpp](./857.%20Minimum%20Cost%20to%20Hire%20K%20Workers.cpp)
+- [1700. Number of Students Unable to Eat Lunch.cpp](./1700.%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch.cpp)
