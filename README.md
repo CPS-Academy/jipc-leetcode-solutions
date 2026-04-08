@@ -2,7 +2,7 @@
 
 ## Topic Folders
 
-- [Arrays](./Arrays/README.md)
+- [Array](./Array/README.md)
 - [Backtracking](./Backtracking/README.md)
 - [Binary Search](./Binary%20Search/README.md)
 - [Binary Tree](./Binary%20Tree/README.md)
