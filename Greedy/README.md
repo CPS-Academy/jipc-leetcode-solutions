@@ -3,9 +3,9 @@
 ## File Index
 
 - [402. Remove K Digits.cpp](./402.%20Remove%20K%20Digits.cpp)
-- [763. Partition Labels.cp](./763.%20Partition%20Labels.cp)
 - [621. Task Scheduler.cpp](./621.%20Task%20Scheduler.cpp)
 - [45. Jump Game II.cpp](./45.%20Jump%20Game%20II.cpp)
+- [763. Partition Labels.cpp](./763.%20Partition%20Labels.cpp)
 - [605. Can Place Flowers.cpp](./605.%20Can%20Place%20Flowers.cpp)
 - [409. Longest Palindrome.cpp](./409.%20Longest%20Palindrome.cpp)
 - [122. Best Time to Buy and Sell Stock II.cpp](./122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)

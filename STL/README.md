@@ -7,6 +7,7 @@
 - [703. Kth Largest Element in a Stream.cpp](./703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp)
 - [1. Two Sum.cpp](./1.%20Two%20Sum.cpp)
 - [13. Roman to Integer.cpp](./13.%20Roman%20to%20Integer.cpp)
+- [New Text Document.txt](./New%20Text%20Document.txt)
 - [771. Jewels and Stones.cpp](./771.%20Jewels%20and%20Stones.cpp)
 - [232. Implement Queue using Stacks.cpp](./232.%20Implement%20Queue%20using%20Stacks.cpp)
 - [2034. Stock Price Fluctuation .cpp](./2034.%20Stock%20Price%20Fluctuation%20.cpp)
