@@ -11,7 +11,6 @@
 - [9. Palindrome Number.cpp](./9.%20Palindrome%20Number.cpp)
 - [50. Pow(x, n).cpp](./50.%20Pow(x,%20n).cpp)
 - [43. Multiply Strings.cpp](./43.%20Multiply%20Strings.cpp)
-- [7. Reverse Integer.cpp](./7.%20Reverse%20Integer.cpp)
 - [168. Excel Sheet Column Title.cpp](./168.%20Excel%20Sheet%20Column%20Title.cpp)
 - [172. Factorial Trailing Zeroes.cpp](./172.%20Factorial%20Trailing%20Zeroes.cpp)
 - [415. Add Strings.cpp](./415.%20Add%20Strings.cpp)
