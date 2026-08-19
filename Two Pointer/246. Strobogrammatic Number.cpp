@@ -1,28 +1,31 @@
-class Solution {
+class Solution
+{
 public:
-    bool check69(char a, char b)
+    bool isStrobogrammatic(string num)
     {
-        if(a=='6' && b=='9') return true;
-        else if(a=='9' && b=='6') return true;
-        else return false;
-    }
-    bool checkOthers(char a, char b)
-    {
-        if(a==b && (a=='0' || a=='1' || a=='8')) return true;
-        else return false;
-    }
-    bool isStrobogrammatic(string num) {
-        int i=0, j=num.size()-1;
+        int n = num.length();
+        vector<int> v(11, -1);
+        v[0] = 0;
+        v[1] = 1;
+        v[6] = 9;
+        v[8] = 8;
+        v[9] = 6;
 
-        while(i<=j)
+        // 2, 3, 4, 5, 7 -> -1
+
+        int left = 0, right = n - 1;
+        while (left <= right)
         {
-            if(!check69(num[i], num[j]) && !checkOthers(num[i], num[j]))
-            {
+            if (v[num[left] - '0'] == -1)
                 return false;
-            }
-            i++;
-            j--;
+
+            if (v[num[left] - '0'] != num[right] - '0')
+                return false;
+
+            left++;
+            right--;
         }
-      return true;
+
+        return true;
     }
 };
